@@ -1,0 +1,5 @@
+Project Name: Collaborative Git
+Student Name: Imtiaz Ahmed
+Department: Computer Science and Engineering
+University: University of Rajshahi
+Purpose: Learning Git Push and Pull Operations.
